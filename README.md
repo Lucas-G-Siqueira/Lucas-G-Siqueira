@@ -13,7 +13,7 @@ Seja Bem Vindo(a) ao meu perfil 👻
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para mais informações, me siga nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/luscas.siqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
